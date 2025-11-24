@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Zoro",
+    "id": "zoro",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./zoro.js"
+  },
+  {
+    "name": "Gogoanime",
+    "id": "gogoanime",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./gogoanime.js"
+  },
+  {
+    "name": "9anime",
+    "id": "nineanime",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./9anime.js"
+  },
+  {
+    "name": "AniWave",
+    "id": "aniwave",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./aniwave.js"
+  },
+  {
+    "name": "HiAnime",
+    "id": "hianime",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./hianime.js"
+  },
+  {
+    "name": "AnimePahe",
+    "id": "animepahe",
+    "version": "1.0.0",
+    "enabled": true,
+    "code": "./animepahe.js"
+  }
+]
